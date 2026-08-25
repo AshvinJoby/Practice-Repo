@@ -1,0 +1,3 @@
+HEAD
+line from master
+different line from main, second edit
